@@ -16,6 +16,10 @@ It also offers some convenience methods for importing data into the tree.
 * Includes ability to handle expandChange, tap, and double tap user interactions
 * Includes convenience methods for adding, updating and deleting nodes
 
+## Edited
+
+* This Project forked by https://bitbucket.org/kevinandre/flutter_treeview/src/master/
+* More information - https://pub.dev/packages/flutter_treeview
 
 ## Getting Started
 
